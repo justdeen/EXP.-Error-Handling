@@ -17,9 +17,6 @@ mongoose.connect('mongodb://127.0.0.1:27017/farmstand2')
     console.log(err)
 })
 
-app.set('views', path.join(__dirname, 'views'))
-app.set('view engine', 'ejs')
-
 app.use(express.urlencoded({extended: true}))
 app.use(methodOverride('_method'))
 
