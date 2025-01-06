@@ -1,4 +1,4 @@
-<i>Contributions welcome! Please submit a pull request with your changes.
+<i>Contributions are welcome! Please submit a pull request with your changes.
 </i>
 
  
